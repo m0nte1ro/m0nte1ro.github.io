@@ -1,18 +1,11 @@
 # Desenvolvimento de Jogos
 
 Esta página web irá servir como Caderno Digital para registar e acompanhar os projetos realizados, bem como dar a conhecer o processo de realização e o estado dos mesmos.
-.
-.
-.
 ## Introdução do Primeiro Projeto
 
 O primeiro projeto desta unidade curricular, circula à volta da criação de um ou mais níveis de jogo originais partindo de um GameKit à nossa escolha. 
 Como tal, o GameKit escolhido foi o Karting MiniGame devido à sua modularidade, flexibilidade e devido a ser o jogo mais acentuado na realidade o que facilita a criação de novos níveis. 
-.
-.
-.
 ## Fases de Desenvolvimento
-.
 ### Primeira Fase
 
 O primeiro passo a tomar foi escolher um layout para a pista. Inicialmente decidi tentar improvisar um layout aleatório, mas o design simplesmente não funcionava, tanto visualmente, como na prática. 
