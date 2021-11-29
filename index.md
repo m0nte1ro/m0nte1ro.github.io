@@ -1,4 +1,59 @@
-## Welcome to GitHub Pages
+## Desenvolvimento de Jogos
+
+Esta página web irá servir como Caderno Digital para registar e acompanhar os projetos realizados, bem como dar a conhecer o processo de realização e o estado dos mesmos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ayoooo
 
