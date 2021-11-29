@@ -9,6 +9,7 @@ Como tal, o GameKit escolhido foi o Karting MiniGame devido à sua modularidade,
 ### Primeira Fase
 
 O primeiro passo a tomar foi escolher um layout para a pista. Inicialmente decidi tentar improvisar um layout aleatório, mas o design simplesmente não funcionava, tanto visualmente, como na prática. 
+![Fase Inicial](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/1.%20Estado%20Inicial.PNG)
 
 
 
