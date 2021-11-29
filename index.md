@@ -8,14 +8,15 @@ Como tal, o GameKit escolhido foi o Karting MiniGame devido à sua modularidade,
 ## Fases de Desenvolvimento
 ### Primeira Fase
 
-O primeiro passo a tomar foi escolher um layout para a pista. Inicialmente decidi tentar improvisar um layout aleatório, mas o design simplesmente não funcionava, tanto visualmente, como na prática. 
+- O primeiro passo a tomar foi escolher um layout para a pista. Inicialmente decidi tentar improvisar um layout aleatório, mas o design simplesmente não funcionava, tanto visualmente, como na prática. 
 ![Design Falhado](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/2.%20Tentativa.PNG)
-Após perceber que o design não funcionava decidi tentar recriar a pista de Montalegre.
+
+- Após perceber que o design não funcionava decidi tentar recriar a pista de Montalegre.
 ![Fase Inicial](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/3.%20Plano.png)
-De forma a ter uma de referência de escala, decidi criar uma reta no Unity que achei que fosse de uma dimensão apropriada, resultando num total de 17 'track pieces'. Uma vez obtido um valor de referência foi só fazer uma regra de 3 simples. Se a reta mede 170 px (valor exemplificativo) cada 'track piece' são 10px. Abaixo podemos ver um exemplo da escala em funcionamento.
+- De forma a ter uma de referência de escala, decidi criar uma reta no Unity que achei que fosse de uma dimensão apropriada, resultando num total de 17 'track pieces'. Uma vez obtido um valor de referência foi só fazer uma regra de 3 simples. Se a reta mede 170 px (valor exemplificativo) cada 'track piece' são 10px. Abaixo podemos ver um exemplo da escala em funcionamento.
 ![Escala](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/4.%20Estrutura.png)
-
-
+- Abaixo podemos ver a pista recriada de uma forma aproximada.
+![Pista](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/5.%20Pista.PNG)
 
 
 
