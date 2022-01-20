@@ -96,5 +96,11 @@ Aspeto final:
 - ![Final](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/final.png)
 
 
+###Conclusão
+
+
+Com este trabalho, foi nos possível aprender muito sobre o desenvolvimento de jogos, bem como o todo trabalho por trás da criação de um.
+Aprendemos ainda a importância de uma boa narrativa, sendo que a mesma pode compensar por defeitos técnicos num jogo. O que realmente importa é se o jogador se diverte e se fica mesmo emergido no jogo.
+Por fim, gostaria ainda de agradecer ao Professor Eduardo pela disponibilidade que mostrou no que toca ao esclarecimento de dúvidas, e à sua disponibilidade para adiar algumas entregas, o que nos permitiu entregar jogos mais polidos e, acima de tudo, terminados. 
 
 
