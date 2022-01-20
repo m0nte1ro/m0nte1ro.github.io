@@ -41,7 +41,7 @@ Como tal, o GameKit escolhido foi o Karting MiniGame devido à sua modularidade,
 - ![Valores Iniciais](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/9.%20Valores%20Refer%C3%AAncia%20do%20Kart.PNG)
 - ![Valores Finais](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/9.1.%20Valores%20Finais%20do%20Kart.PNG)
 
-
+##
 ## Segundo projeto da cadeira
 
 O segundo projeto da cadeira baseia-se à volta da criação de um jogo de fantasia 2D, inspirado por jogos como Zelda e Pokémon, chamado 'The Legend of Talion'. Este jogo foi desenvolvido de raíz por mim e pelo Bruno Dias, sendo que eu fiquei responsável pela implementação das ideias do Bruno. 
