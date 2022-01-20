@@ -10,7 +10,7 @@ Como tal, o GameKit escolhido foi o Karting MiniGame devido à sua modularidade,
 ### Primeira Fase
 
 - O primeiro passo a tomar foi escolher um layout para a pista. Inicialmente decidi tentar improvisar um layout aleatório, mas o design simplesmente não funcionava, tanto visualmente, como na prática. 
-![Design Falhado](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/2.%20Tentativa.PNG)
+- ![Design Falhado](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/2.%20Tentativa.PNG)
 
 - Após perceber que o design não funcionava decidi tentar recriar a pista de Montalegre.
 ![Fase Inicial](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/primeiroProjeto/3.%20Plano.png)
