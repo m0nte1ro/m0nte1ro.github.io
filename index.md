@@ -71,6 +71,30 @@ Como o jogo realizado segue o que seria apenas o inico da história, as personag
 
 ### Esboços e implementação
 
+Aqui podemos ver o primeiro esboço do mapa:
+- ![Esboço](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/IMG_20220120_150157.jpg)
+
+A criação da área do mapa:
+- ![Primeiro](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/1.PNG)
+
+A implementação da primeira aldeira:
+- ![Segundo](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/2.PNG)
+
+A área de jogo praticamente concluida:
+- ![Terceiro](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/3.PNG)
+
+Aperfeiçoamento de alguns assets:
+- ![Quarto](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/4.PNG)
+
+Finalização da decoração do mapa:
+- ![Quinto](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/5.PNG)
+
+Criação do primeiro inimigo:
+- ![Sexto](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/6.PNG)
+
+Aspeto final:
+- ![Final](https://raw.githubusercontent.com/m0nte1ro/m0nte1ro.github.io/main/assets/segundoProjeto/final.png)
+
 
 
 
